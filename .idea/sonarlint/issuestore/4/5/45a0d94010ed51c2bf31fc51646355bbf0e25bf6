@@ -1,0 +1,18 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(š—°øÿÿÿÿ
+g
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(Š–¦
+S	java:S106"9Replace this use of System.out or System.err by a logger.(åÒ¸ëÿÿÿÿÿ
+\
+java:S1126"AReplace this if-then-else statement by a single return statement.(Öšöçüÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ñ–ü´
+V	java:S125!"<This block of commented-out lines of code should be removed.(„Ÿ¸ıÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(éĞ«şÿÿÿÿ
+V	java:S125."<This block of commented-out lines of code should be removed.(£‘ş—øÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ
+V	java:S1254"<This block of commented-out lines of code should be removed.(¼îšìşÿÿÿÿ
+V	java:S125?"<This block of commented-out lines of code should be removed.(ş²öüÿÿÿÿ
+V	java:S125B"<This block of commented-out lines of code should be removed.(³–‹ùÿÿÿÿ
+B
+java:S1128",Remove this unused import 'java.net.Socket'.(­‡àú
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Şîè¡
