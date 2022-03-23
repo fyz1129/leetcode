@@ -1,4 +1,4 @@
-package jianzhioffer35;
+package jianzhioffer.jianzhioffer35;
 
 /**
  * @author Dell
